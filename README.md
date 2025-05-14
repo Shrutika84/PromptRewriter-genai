@@ -1,1 +1,17 @@
-# PromptRewriter-genai
+# 🔁 Prompt Rewriter using GenAI
+
+A lightweight GenAI app that rewrites user prompts in 3 different styles — Creative, Instructional, and Technical — using local LLMs (Mistral, LLaMA, etc.) via [Ollama](https://ollama.com/).
+
+## 🚀 Features
+- Works offline using open-source models
+- Choose your LLM: Mistral, LLaMA2, CodeLLaMA
+- Streamlit-based clean interface
+- Prompt engineering showcase
+
+## 🧠 Models Used
+- [`mistralai/Mistral-7B-Instruct`](https://ollama.com/library/mistral)
+- LLaMA2, CodeLLaMA (optional if installed)
+
+## 📦 Screenshots
+
+
